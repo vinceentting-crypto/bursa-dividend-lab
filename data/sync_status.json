@@ -1,1 +1,8 @@
-{"catalogCount":15,"cacheCount":0,"cursor":0,"lastRun":null,"coverageNote":"未启动自动历史数据更新；目录条目不等于已有历史数据。"}
+{
+  "lastRun": "2026-10-16T00:35:19+00:00",
+  "catalogCount": 1036,
+  "cacheCount": 0,
+  "importedCount": 0,
+  "provider": "manual/authorized data",
+  "coverageNote": "Automatic stock directory only. No licensed all-stock historical provider is configured; absence of data is NOT 0% yield."
+}
